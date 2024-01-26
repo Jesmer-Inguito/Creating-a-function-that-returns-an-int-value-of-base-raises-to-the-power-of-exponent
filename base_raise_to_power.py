@@ -15,3 +15,4 @@ exp = int(input("Please enter the exponent: "))
 result = exponent(base, exp)
 
 # Print results
+print(f"{base} raised to {exp} is: {result}")
