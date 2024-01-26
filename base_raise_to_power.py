@@ -1,6 +1,9 @@
 # pseudocode
 
 # Create a function to solve the result
+def exponent(base, exp):
+    result = base ** exp
+    return result
 
 # Enter base
 
