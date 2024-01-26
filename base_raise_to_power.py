@@ -12,5 +12,6 @@ base = int(input("Please enter the base: "))
 exp = int(input("Please enter the exponent: "))
 
 # Call the function
+result = exponent(base, exp)
 
 # Print results
